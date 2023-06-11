@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Data
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Loja\ aqui.\r\n\ \r\n\ @author\ (Salom\u00E3o\ de\ Cristo\ Machado)\ \r\n\ @version\ (1\u00BA\ semestre)\r\n
+comment1.params=dia\ mes\ ano
+comment1.target=Data(int,\ int,\ int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=outraData
+comment11.target=int\ compareTo(Data)
+comment2.params=
+comment2.target=int\ getDia()
+comment3.params=
+comment3.target=int\ getMes()
+comment4.params=
+comment4.target=int\ getAno()
+comment5.params=dia
+comment5.target=void\ setDia(int)
+comment6.params=mes
+comment6.target=void\ setMes(int)
+comment7.params=ano
+comment7.target=void\ setAno(int)
+comment8.params=dia\ mes\ ano
+comment8.target=boolean\ validaData(int,\ int,\ int)
+comment9.params=
+comment9.target=boolean\ verificaAnoBissexto()
+numComments=12
